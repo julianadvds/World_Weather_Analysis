@@ -1,0 +1,68 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+16,Lososina,RU,19.17,clear sky,48.9975,140.3106,"Хостел ""Пилигрим"""
+21,Taksimo,RU,0.97,overcast clouds,56.3444,114.8794,"Gostinitsa ""Domashniy Ochag"""
+23,Saint Anthony,US,7.56,clear sky,45.0205,-93.218,"Holiday Inn Express Roseville-St. Paul, an IHG Hotel"
+25,Qaanaaq,GL,19.6,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
+45,Timmins,CA,10.22,light snow,48.4669,-81.3331,The Senator Hotel & Conference Centre
+46,Zeya,RU,4.75,clear sky,53.75,127.2667,Kapital Inn
+77,Nenjiang,CN,9.45,scattered clouds,49.1833,125.2167,Nenjiang Apartment
+106,Yankton,US,17.85,clear sky,42.8711,-97.3973,"Holiday Inn Express & Suites Yankton, an IHG Hotel"
+120,Tuktoyaktuk,CA,12.2,broken clouds,69.4541,-133.0374,End of The Road Ltd.
+122,Segezha,RU,9.97,scattered clouds,63.7415,34.3222,Sampo Hotel
+129,Ilulissat,GL,9.75,overcast clouds,69.2167,-51.1,Hotel Arctic
+149,Iqaluit,CA,10.13,broken clouds,63.7506,-68.5145,Frobisher Inn
+153,Englehart,CA,17.62,light snow,47.8169,-79.8664,"The Englehart Motel & Restaurant- Best Hotel & Motel in Englehart ,Ontario,Canada"
+157,Narsaq,GL,18.19,broken clouds,60.9167,-46.05,Sleep In Narsaq
+158,Mnogovershinnyy,RU,10.29,broken clouds,53.9353,139.9242,Obshchezhitiye 14
+168,Whitehorse,CA,2.17,overcast clouds,60.7161,-135.0538,The Sternwheeler Hotel & Conference Centre
+180,Kargil,IN,6.22,scattered clouds,34.5667,76.1,Caravan Sarai
+190,Shaunavon,CA,8.38,overcast clouds,49.6501,-108.4181,Bear's Den Lodge
+200,Abaza,RU,19.65,overcast clouds,52.655,90.0928,Гостевой дом «Кедровый»
+203,Moose Factory,CA,8.6,snow,51.2585,-80.6094,Moosonee Lilypad
+205,Athabasca,CA,8.42,clear sky,54.7169,-113.2854,Athabasca Lodge Motel
+207,Haines Junction,CA,14.9,light snow,60.7522,-137.5108,Parkside Inn
+211,Nikolskoye,RU,5.4,overcast clouds,59.7035,30.7861,Tourist House - Sablino
+240,Severo-Yeniseyskiy,RU,9.82,overcast clouds,60.3725,93.0408,Aktolik
+246,Baoqing,CN,16.52,clear sky,46.3317,132.2111,Baoqing Hotel
+273,Paamiut,GL,19.09,light snow,61.994,-49.6678,Pistut
+274,Kargasok,RU,7.14,light snow,59.0556,80.8572,Hotel Kargasok
+297,Naryan-Mar,RU,11.08,overcast clouds,67.6713,53.087,Hostel Agat
+315,Songjianghe,CN,17.69,scattered clouds,42.1859,127.479,Sijisheng Fashion Guest House
+321,Yerofey Pavlovich,RU,1.02,overcast clouds,53.9667,121.9667,lounges and warm parking
+328,Aklavik,CA,18.32,broken clouds,68.2191,-135.0107,Aklavik Inn
+336,Kokkola,FI,9.03,light shower snow,63.8385,23.1307,Hotel Kokkola
+343,Usinsk,RU,9.21,light snow,65.9939,57.5281,Dobro Pozhalovaty
+372,Darhan,MN,9.16,overcast clouds,49.4867,105.9228,Buudai Hotel
+395,Skoghall,SE,1.96,overcast clouds,59.3232,13.4655,Mörudden Camping & Stugby
+396,Amot,NO,11.5,light snow,59.5714,7.9877,Groven Camping og Hyttegrend AS
+405,Smithers,CA,16.12,light snow,54.7804,-127.1743,"Prestige Hudson Bay Lodge, Premier Collection"
+407,Mendota Heights,US,7.41,clear sky,44.8836,-93.1383,Fairfield Inn & Suites by Marriott Minneapolis-St. Paul Airport
+412,Severodvinsk,RU,15.91,few clouds,64.5635,39.8302,Park Hotel
+424,Druzhnaya Gorka,RU,4.32,overcast clouds,59.2761,30.1425,Stroganovskaya Usad'ba
+431,Nuuk,GL,18.77,light snow,64.1835,-51.7216,Vandrehuset
+434,Yar-Sale,RU,6.12,overcast clouds,66.8333,70.8333,Yalemd
+440,Dzerzhinsk,RU,17.42,overcast clouds,56.2389,43.4631,Hotel Druzhba
+444,Tevriz,RU,6.04,overcast clouds,57.509,72.4042,Postoyalyy Dvor
+457,Suhbaatar,MN,4.98,overcast clouds,50.2314,106.2078,Hotel Nine
+461,Boden,SE,6.8,overcast clouds,65.8252,21.6886,Quality Hotel Bodensia
+472,Pangnirtung,CA,1.08,overcast clouds,66.1451,-65.7125,Kilabuk Lodge
+476,Ostersund,SE,7.25,broken clouds,63.1792,14.6357,Best Western Hotel Gamla Teatern
+500,Tommot,RU,5.85,overcast clouds,58.9564,126.2925,Gostinitsa Tommot
+506,Vuktyl,RU,1.02,overcast clouds,63.8567,57.3094,Mini-Hotel Lokomotiv
+511,Muromtsevo,RU,12.31,overcast clouds,56.3724,75.2418,Plyazh U Reki Tara
+522,Mustasaari,FI,10.89,broken clouds,63.1142,21.6822,Hotel Astor
+523,Upernavik,GL,17.8,overcast clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
+535,Bulaevo,KZ,7.32,overcast clouds,54.9056,70.4439,"Игровой клуб ""ДОМ ИГР Z"""
+543,Bagdarin,RU,1.94,scattered clouds,54.4333,113.6,Gostevoy Dom Terem
+565,Haukipudas,FI,14.05,few clouds,65.1765,25.3523,Hotel Samantta
+585,Neya,RU,8.78,overcast clouds,58.2972,43.8681,Gostinitsa Dlya Arsa
+590,Ulaangom,MN,3.92,broken clouds,49.9811,92.0667,Achit Nuur Hotel & Restaurant
+609,Rocky Mountain House,CA,8.73,scattered clouds,52.3668,-114.9188,Walking Eagle Inn & Lodge
+624,Huangnihe,CN,15.62,scattered clouds,43.5583,128.0239,Huangnihe Forestry Bureau Huanglin Hotel
+628,Matagami,CA,14.11,light snow,49.7502,-77.6328,Hôtel Matagami
+640,Tongliao,CN,19.87,clear sky,43.6125,122.2653,Meirujia Hotel
+641,Kyren,RU,19.62,scattered clouds,51.6828,102.1408,"Energetik, Pansionat Ooo ""Grand Baykal"""
+644,Storm Lake,US,12.33,clear sky,42.6411,-95.2097,King's Pointe Resort
+657,Alta,NO,2.46,scattered clouds,69.9689,23.2717,Scandic Alta
+665,At-Bashi,KG,11.86,broken clouds,41.1702,75.8106,Hostel At-Bashy
+682,Clyde River,CA,10.63,light snow,70.4692,-68.5914,Qamaq Hotel
